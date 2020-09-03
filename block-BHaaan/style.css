@@ -46,60 +46,65 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+/*Custom Style*/
 
-.text{
+
+
+
+
+.head{
     text-align: center;
-    background-color: lightgreen;
-     word-spacing: 40px;
-     font-size:24px;
-
+	background-color: #C786C7;
+	font-size:20px;
+	height: 50px;
+	padding: 10px;
+	margin-top: 1px;
+	 
 }
 
-
-	
-    
-	
-
-div{
-	color: black;
-	
-	line-height: 1.5;
-	margin : 5%  35% ;
-	
-}
-h1{
-	text-align: left;
-	font-size: 2.7em;
-	
-}
-footer{
-	text-align: center;
-	color: blue;
-	
-}
-
-header{
-	text-align: center;
-	margin-top: 20px;
-}	
-h3{
-	background-color: lime;
-	font-size: 20px;
+a{
+	text-decoration: none;
 	margin-top: 10px;
+	margin: 10px;
+	
+}
+.page{
+	width: 600px;
+	margin: 0 auto;
+
+}
+.title{
+	width: 600px;
+	margin: 0 auto;
+}
+.sec{
+	color: blue;
+	margin: 24px 0;
+	font-size: 25px;
+	
+}
+img{
+	width: 100%;
+}
+h2{
+	font-size: 25px;
+	color: black;
+	margin: 15px 0;
 }
 p{
-	 margin-bottom: 10px;
-	text-align: left;
+	font-size: 18px;
+	margin-bottom: 10px;
+	line-height: 1.5;
 }
+hr{
+	width: 600px;
+}
+.foot{
+	background-color: #9090E7;
+	padding: 20px;
+	height: 33px;
+	text-align: center;
 
-h4{
-	text-align: left;
-	color: mediumblue;
-}
-.read{
- margin-right: 40px;
-	
-	
 }
 
 
